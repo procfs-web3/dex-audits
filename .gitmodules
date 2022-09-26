@@ -1,0 +1,21 @@
+[submodule "rkdnd-DEX"]
+	path = rkdnd-DEX
+	url = https://github.com/rkdnd/DEX
+[submodule "Jp1n9-DEX"]
+	path = Jp1n9-DEX
+	url = https://github.com/Jp1n9/Practice-Dex
+[submodule "procfs-DEX"]
+	path = procfs-DEX
+	url = https://github.com/procfs-web3/practice_DEX
+[submodule "Eunyeong2-DEX"]
+	path = Eunyeong2-DEX
+	url = https://github.com/Eunyeong2/DEX
+[submodule "LTaeng-DEX"]
+	path = LTaeng-DEX
+	url = https://github.com/LTaeng/DEX
+[submodule "wooz3k-DEX"]
+	path = wooz3k-DEX
+	url = https://github.com/dreamwooz3k/wooz3k_dex
+[submodule "Kkyung123-DEX"]
+	path = Kkyung123-DEX
+	url = https://github.com/Kkyung123/practice_DEX
